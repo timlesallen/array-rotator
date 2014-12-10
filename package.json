@@ -1,0 +1,31 @@
+{
+  "name": "array-rotator",
+  "version": "1.0.0",
+  "description": "Rotate between array elemnts based on time of day.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timothyleslieallen/array-rotator"
+  },
+  "keywords": [
+    "array",
+    "rotate",
+    "time",
+    "day"
+  ],
+  "author": "Tim Allen <tim@noblesamurai.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/timothyleslieallen/array-rotator/issues"
+  },
+  "dependencies": {
+    "moment": "^2.8.4"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.17.0"
+  }
+}
