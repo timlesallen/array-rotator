@@ -14,6 +14,6 @@ $ npm install array-rotator
 
 ## Example Usage
 
-``` js
-var arrayRotator = require('array-rotator');
+```js
+const arrayRotator = require('array-rotator');
 ```
