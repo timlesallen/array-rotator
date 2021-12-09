@@ -1,6 +1,6 @@
 # array-rotator
 
-Rotate between array elemnts based on time of day.
+Rotate between array elements based on time of day.
 
 [![build status](https://secure.travis-ci.org/timothyleslieallen/array-rotator.png)](http://travis-ci.org/timothyleslieallen/array-rotator)
 
